@@ -2,7 +2,7 @@
 
 A dependency-free, reusable `<voice-recorder>` component recreated from a 20.6-second, 59.94 fps reference clip (1,235 frames). Record, listen back, and save a voice note — no framework, no build step, no network requests, and no uploads.
 
-**Live demo:** [voicerecorder-app.vercel.app](https://voicerecorder-app.vercel.app)
+**Live demo:** [voicemessage.vercel.app](https://voicemessage.vercel.app)
 
 ![Recording state: discard, waveform pill with progress ring, and confirm controls](docs/preview.png)
 
